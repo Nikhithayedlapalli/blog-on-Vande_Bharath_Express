@@ -1,0 +1,58 @@
+
+.one::first-letter {
+    font-size: 30px;
+    color: rgb(202, 20, 20);   
+}
+.one{
+    font-size: 20px;
+}
+.two{
+    font-size:20px;
+    color: black;
+    margin: 40px;
+    border-color: rgb(21, 15, 197);
+}
+.four{
+    font-size: 20px;
+}
+.five{
+    font-style: oblique;
+    color: rgb(221, 16, 12);
+    font-weight: bold;
+}
+.three{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Indian_Railways.svg/250px-Indian_Railways.svg.png);
+    width: 100vw;
+    height:30vh;
+    background-repeat:no-repeat ;
+    background-position: center;
+    background-size:contain ;
+    z-index:5;
+    margin-top: 30px;
+}
+.six{
+    position: relative;
+    top: 0px;
+    left: 250px;
+}
+.seven{
+    position:relative;
+    top:7px;
+   left:190px;
+}
+.eight{
+    position:relative;
+    top: 10 px;
+    left:300px;
+}
+.nine{
+    width: 33vw;
+    left:120px;
+    position:relative;
+}
+.o{
+    background-color: rgb(116, 160, 209);
+    
+    
+}
+
